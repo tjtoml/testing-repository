@@ -1,1 +1,6 @@
+dog: lucy
+cat: bingo
+pets:
+  - lucy
+  - bingo
 
